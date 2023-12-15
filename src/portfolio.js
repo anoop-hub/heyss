@@ -15,21 +15,21 @@ const greeting = {
   nickname: "Anoop / picleric",
   full_name: "Anoop Parashar",
   subTitle:
-    "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
+    "Full Stack Developer, Data Analytics Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+    "https://drive.google.com/file/d/1_sSxZ3OYgKx4BJCA58byu3qvktCNdhpf/view?usp=sharing",
+  mail: "anoopparashar279@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/anoop-hub",
   linkedin: "https://www.linkedin.com/in/anoop-parashar/",
-  gmail: "anoop@gmail.com",
+  gmail: "anoopparashar279@gmail.com",
   gitlab: " ",
   facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  twitter: "https://twitter.com/AnoopPara",
+  instagram: "https://www.instagram.com/anoop_010/",
 };
 
 const skills = {
@@ -173,20 +173,20 @@ const skills = {
             color: "#3DDC84",
           },
         },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-        {
-          skillName: "MySQL",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#4479A1",
-          },
-        },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
+        // {
+        //   skillName: "MySQL",
+        //   fontAwesomeClassname: "simple-icons:mysql",
+        //   style: {
+        //     color: "#4479A1",
+        //   },
+        // },
 
         {
           skillName: "Wordpress",
@@ -207,7 +207,7 @@ const skills = {
     },
 
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud Computing",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Certified AWS Cloud Practioner",
@@ -567,6 +567,7 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
+      
         // {
         //   title: "Google Summer of Code Mentor",
         //   company: "Sugar Labs / GSoC",
@@ -626,7 +627,7 @@ const projectsHeader = {
 // Contact Page
 const contactPageData = {
   contactSection: {
-    title: "Crypto_Update",
+    title: "Contact Me",
     profile_image_path: "hrishi2.png",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
@@ -643,9 +644,9 @@ const contactPageData = {
 const projects = {
   data: [
     {
-      name: "CineScope",
-      url: "https://github.com/Hrishi1999/CineScope",
-      description: "An IMDB-like application.",
+      name: "Travel World",
+      url: "https://github.com/anoop-hub/TravelAgencyBooking",
+      description: " This travel booking web application is designed to offer users information about attractive destinations and facilitate hotel reservations while also offering the ability to explore various places to visit",
       languages: [
         {
           name: "React.js",
@@ -669,27 +670,31 @@ const projects = {
         },
       ],
     },
+    // {
+    //   name: "Journalify",
+    //   url: "https://play.google.com/store/apps/details?id=com.picle.journalify",
+    //   description:
+    //     "You personal journaling companion, goals & daily challenges! About 5k+ downloads on Play Store.",
+    //   languages: [
+    //     {
+    //       name: "Flutter",
+    //       iconifyClass: "logos-flutter",
+    //     },
+    //     {
+    //       name: "Firebase",
+    //       iconifyClass: "logos-firebase",
+    //     },
+    //   ],
+    // },
     {
-      name: "Journalify",
-      url: "https://play.google.com/store/apps/details?id=com.picle.journalify",
-      description:
-        "You personal journaling companion, goals & daily challenges! About 5k+ downloads on Play Store.",
+      name: "Crypto Updates",
+      url: "https://github.com/anoop-hub/cryptoUpdate",
+      description: " This web application provides comprehensive insights into the world’s leading 100 cryptocurrencies, along with real-time cryptocurrency news sourced from Rapid API.",
       languages: [
-        {
-          name: "Flutter",
-          iconifyClass: "logos-flutter",
+          {
+          name: "React.js",
+          iconifyClass: "logos-react",
         },
-        {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
-        },
-      ],
-    },
-    {
-      name: "RecipesAPI",
-      url: "https://rapidapi.com/Hrishi1999/api/recipesapi2",
-      description: "Get recipes for hundreds and thousands of dishes",
-      languages: [
         {
           name: "NodeJS",
           iconifyClass: "logos-nodejs",
@@ -701,8 +706,8 @@ const projects = {
       ],
     },
     {
-      name: "opPortfolio",
-      url: "https://github.com/Hrishi1999/opPortfolio",
+      name: "Portfolio",
+      url: "https://github.com/anoop-hub/heyss",
       description: "(This) A clean and full customizable portfolio template.",
       languages: [
         {
