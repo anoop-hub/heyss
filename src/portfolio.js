@@ -23,13 +23,13 @@ const greeting = {
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://github.com/anoop-hub",
+  linkedin: "https://www.linkedin.com/in/anoop-parashar/",
+  gmail: "anoopparashar6@gmail.com",
   gitlab: " ",
   facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  // twitter: "https://twitter.com/hrishi_55",
+  // instagram: "https://www.instagram.com/picleric/",
 };
 
 const skills = {
