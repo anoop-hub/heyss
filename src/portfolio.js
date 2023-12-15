@@ -25,11 +25,11 @@ const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/anoop-hub",
   linkedin: "https://www.linkedin.com/in/anoop-parashar/",
-  gmail: "anoopparashar6@gmail.com",
+  gmail: "anoop@gmail.com",
   gitlab: " ",
   facebook: " ",
-  // twitter: "https://twitter.com/hrishi_55",
-  // instagram: "https://www.instagram.com/picleric/",
+  twitter: "https://twitter.com/hrishi_55",
+  instagram: "https://www.instagram.com/picleric/",
 };
 
 const skills = {
@@ -210,10 +210,8 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Certified AWS Developer Associate and Cloud Practioner",
+        "⚡ Certified AWS Cloud Practioner",
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Experience hosting and managing web apps on GCP and AWS",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
       ],
       softwareSkills: [
         {
@@ -272,7 +270,6 @@ const skills = {
       fileName: "DataScienceImg",
       skills: [
         "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Certifications by deeplearning.ai and Stanford Online",
         "⚡ Experience with 10+ Projects",
       ],
       softwareSkills: [
@@ -361,7 +358,7 @@ const certifications = {
       certificate_link:
         "",
       alt_name: "AWS",
-      color_code: "#ffc475",
+      color_code: "#ffc1500",
     },
     // {
     //   title: "AWS Certified Cloud Practioner",
@@ -373,37 +370,37 @@ const certifications = {
     //   color_code: "#ffc475",
     // },
     {
-      title: "Google Summer of Code 2019",
-      subtitle: "Google / Sugar Labs",
+      title: "SmartBridge Artificial Intelligence Externship",
+      subtitle: "Artificial Intellignece",
       logo_path: "google_logo.png",
       certificate_link: " ",
       alt_name: "Google",
-      color_code: "#ffc475",
+      color_code: "#ffc4175",
     },
-    {
-      title: "Google Code-In Student",
-      subtitle: "2014-2017",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#1e70c1",
-    },
-    {
-      title: "Google Summer of Code Mentor",
-      subtitle: "2017 / 2018 / 2020",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#ffbfae",
-    },
-    {
-      title: "Google Code-In Mentor",
-      subtitle: "2017 / 2018 / 2019",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#b190b0",
-    },
+    // {
+    //   title: "Google Code-In Student",
+    //   subtitle: "2014-2017",
+    //   logo_path: "google_logo.png",
+    //   certificate_link: " ",
+    //   alt_name: "Google",
+    //   color_code: "#1e70c1",
+    // },
+    // {
+    //   title: "Google Summer of Code Mentor",
+    //   subtitle: "2017 / 2018 / 2020",
+    //   logo_path: "google_logo.png",
+    //   certificate_link: " ",
+    //   alt_name: "Google",
+    //   color_code: "#ffbfae",
+    // },
+    // {
+    //   title: "Google Code-In Mentor",
+    //   subtitle: "2017 / 2018 / 2019",
+    //   logo_path: "google_logo.png",
+    //   certificate_link: " ",
+    //   alt_name: "Google",
+    //   color_code: "#b190b0",
+    // },
     // {
     //   title: "Deep Learning Specialization",
     //   subtitle: "deeplearning.ai",
@@ -432,57 +429,56 @@ const certifications = {
     //   color_code: "#2AAFED",
     // },
     {
-      title: "Structuring Machine Learning Projects",
-      subtitle: "deeplearning.ai",
+      title: "Embedded-IOT and Matlab",
+      subtitle: "Internet Of Things & Matlab",
       logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/YLC25SJQKH3Y",
+      certificate_link:"",
       alt_name: "deeplearning.ai",
-      color_code: "#E2405F",
+      color_code: "#E21405F",
     },
     {
-      title: "Machine Learning",
-      subtitle: "deeplearning.ai",
+      title: "Bits & Bytes Of Computer Networking",
+      subtitle: "Computer Networking",
       logo_path: "stanford_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/records/72KY93DT82MP",
       alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Neural Networks and Deep Learning",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/25JXRB2RWHRX",
-      alt_name: "Google",
-      color_code: "#7A7A7A",
-    },
-    {
-      title: "Improving Deep Neural Networks",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/PKR9M9LQ3JWC",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
+      color_code: "#81C151599",
     },
     // {
-    //   title: "Android Developer Nanodegree",
-    //   subtitle: "Part of Google India Scholarship Program",
-    //   logo_path: "100.png",
-    //   certificate_link: "https://graduation.udacity.com/confirm/HLE7K5V3",
+    //   title: "Neural Networks and Deep Learning",
+    //   subtitle: "deeplearning.ai",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/records/25JXRB2RWHRX",
     //   alt_name: "Google",
-    //   color_code: "#C5E2EE",
+    //   color_code: "#7A7A7A",
     // },
     // {
-    //   title: "InOut 4.0 Winner #2",
-    //   subtitle: "2017",
-    //   logo_path: "ino.png",
-    //   certificate_link: " ",
-    //   alt_name: "InOut",
-    //   color_code: "#fffbf3",
+    //   title: "Improving Deep Neural Networks",
+    //   subtitle: "deeplearning.ai",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/records/PKR9M9LQ3JWC",
+    //   alt_name: "Google",
+    //   color_code: "#0C9D5899",
     // },
+    {
+      title: "Data Science Certificate By Board Infinity",
+      subtitle: "Data Science",
+      logo_path: "100.png",
+      certificate_link: "",
+      alt_name: "Data_Science",
+      color_code: "#C51E2EE",
+    },
+    {
+      title: "Brand In Our Hand Internship Certificate",
+      subtitle: "Internship",
+      logo_path: "ino.png",
+      certificate_link: " ",
+      alt_name: "InOut",
+      color_code: "#fffb1f3",
+    },
   ],
 };
 
@@ -525,25 +521,25 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Google Summer of Code",
-          company: "Sugar Labs",
-          company_url: "https://sugarlabs.org/",
-          logo_path: "google_logo.png",
-          duration: "May 2019 - Aug 2019",
+          title: "Web Development Internship",
+          company: "BIOH",
+          company_url: " ",
+          logo_path: "BIOH_image.jpeg",
+          duration: "September 2023 - November 2023",
           location: "Work From Home",
           description:
-            "I worked on the Dashboard project which helps users track their activities while using Sugar OS. I also worked on making a Tamagotchi-like widget for Sugar's Home Screen",
+            "I worked on the fulfilling clients needs and demands by providing effective web development solutions at ease .",
           color: "#ee3c26",
         },
         {
-          title: "Android App Developer Intern",
-          company: "IAS4Sure",
+          title: "Data Science Internship ",
+          company: "Ioncurex",
           company_url: " ",
           logo_path: "buld.jpg",
-          duration: "December 2019 - February 2020",
+          duration: "November 2023 - december 2023 (Ongoing)",
           location: "Work From Home",
           description:
-            "Internship task was to make a native Android application. ",
+            "Internship task is to make reasearch and development under food science domain. ",
           color: "#0071C5",
         },
         // {
@@ -571,49 +567,49 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
+        // {
+        //   title: "Google Summer of Code Mentor",
+        //   company: "Sugar Labs / GSoC",
+        //   company_url: "https://sugarlabs.org/",
+        //   logo_path: "google_logo.png",
+        //   duration: "Summer of 2017 / 18 / 20",
+        //   location: " ",
+        //   description:
+        //     "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
+        //   color: "#4285F4",
+        // },
+        // {
+        //   title: "Google Code-In Mentor",
+        //   company: "Sugar Labs / GSoC",
+        //   company_url: "https://sugarlabs.org/",
+        //   logo_path: "google_logo.png",
+        //   duration: "Winter of 2017 / 18 / 19",
+        //   location: " ",
+        //   description:
+        //     "Day to day resposibilites of this mentorship was to help out children aged 13-17 get started with programming and open-source, review their work and approve them.",
+        //   color: "#D83B01",
+        // },
         {
-          title: "Google Summer of Code Mentor",
-          company: "Sugar Labs / GSoC",
-          company_url: "https://sugarlabs.org/",
-          logo_path: "google_logo.png",
-          duration: "Summer of 2017 / 18 / 20",
-          location: " ",
-          description:
-            "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
-          color: "#4285F4",
-        },
-        {
-          title: "Google Code-In Mentor",
-          company: "Sugar Labs / GSoC",
-          company_url: "https://sugarlabs.org/",
-          logo_path: "google_logo.png",
-          duration: "Winter of 2017 / 18 / 19",
-          location: " ",
-          description:
-            "Day to day resposibilites of this mentorship was to help out children aged 13-17 get started with programming and open-source, review their work and approve them.",
-          color: "#D83B01",
-        },
-        {
-          title: "Board Member at Codeuino",
+          title: "Lead Member at Fintech Club Vit Bhopal",
           company: " ",
           company_url: " ",
-          logo_path: "codeuino.jpg",
-          duration: "2018 - 2019",
+          logo_path: "codeuino.jpeg",
+          duration: "2022 - 2023",
           location: " ",
-          description: "Previous Board during early days of Codeuino",
+          description: "Serving lead role in the fintech club at VIT Bhopal (Club teaching finance ie cryptos and more)",
           color: "#D83B01",
         },
-        {
-          title: "BluWings Club",
-          company: " ",
-          company_url: " ",
-          logo_path: "b.png",
-          duration: "2018 - On Going",
-          location: " ",
-          description:
-            "Co-Founder and President of the programming club called BluWings. Have organized several workshops which introduced programming and related tools to freshers.",
-          color: "#D83B01",
-        },
+        // {
+        //   title: "BluWings Club",
+        //   company: " ",
+        //   company_url: " ",
+        //   logo_path: "b.png",
+        //   duration: "2023 - On Going",
+        //   location: " ",
+        //   description:
+        //     "Co-Founder and President of the programming club called BluWings. Have organized several workshops which introduced programming and related tools to freshers.",
+        //   color: "#D83B01",
+        // },
       ],
     },
   ],
@@ -630,16 +626,16 @@ const projectsHeader = {
 // Contact Page
 const contactPageData = {
   contactSection: {
-    title: "Contact Me",
+    title: "Crypto_Update",
     profile_image_path: "hrishi2.png",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Codings",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try my best to write a blog about it.",
-    link: "https://medium.com/@hrishipatel99",
+      "Here is the link to my leetcode profile",
+    link: "https://leetcode.com/Slytherinss/",
     avatar_image_path: "blogs_image.svg",
   },
 };
